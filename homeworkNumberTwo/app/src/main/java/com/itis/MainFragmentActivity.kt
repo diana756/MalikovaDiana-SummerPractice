@@ -3,7 +3,6 @@ package com.ranis.homeworknumbertwo
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
-import androidx.navigation.NavHostController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
 import com.ranis.homeworknumbertwo.databinding.ActivityFragmentMainBinding
