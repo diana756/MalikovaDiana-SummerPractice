@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.ranis.homeworknumbertwo.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/contactsFragment"
+        android:name="com.ranis.homeworknumbertwo.ContactsFragment"
+        android:label="fragment_contacts"
+        tools:layout="@layout/fragment_contacts" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.ranis.homeworknumbertwo.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/sendingFragment"
+        android:name="com.ranis.homeworknumbertwo.SendingFragment"
+        android:label="fragment_sending"
+        tools:layout="@layout/fragment_sending" >
+        <action
+            android:id="@+id/action_sendingFragment_to_receivingFragment"
+            app:destination="@id/receivingFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+    <fragment
+        android:id="@+id/receivingFragment"
+        android:name="com.ranis.homeworknumbertwo.ReceivingFragment"
+        android:label="fragment_receiving"
+        tools:layout="@layout/fragment_receiving" />
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.ranis.homeworknumbertwo.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" />
+</navigation>
