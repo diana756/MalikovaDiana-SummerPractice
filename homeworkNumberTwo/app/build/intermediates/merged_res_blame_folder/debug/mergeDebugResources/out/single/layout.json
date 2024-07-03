@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-mergeDebugResources-47:\\layout\\item_book.xml",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\item_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-mergeDebugResources-47:\\layout\\fragment_sending.xml",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_sending.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-mergeDebugResources-47:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-mergeDebugResources-47:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.ranis.homeworknumbertwo.app-mergeDebugResources-47:/layout/fragment_information.xml",
+        "source": "com.ranis.homeworknumbertwo.app-main-50:/layout/fragment_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-mergeDebugResources-47:\\layout\\fragment_contacts.xml",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-mergeDebugResources-47:\\layout\\item_club.xml",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\item_club.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-mergeDebugResources-47:\\layout\\fragment_receiving.xml",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_receiving.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-mergeDebugResources-47:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-mergeDebugResources-47:\\layout\\fragment_information.xml",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-mergeDebugResources-47:\\layout\\activity_fragment_main.xml",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\activity_fragment_main.xml"
+    }
+]

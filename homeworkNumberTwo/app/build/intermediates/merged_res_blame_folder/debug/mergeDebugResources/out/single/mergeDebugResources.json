@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\layout_activity_fragment_main.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\activity_fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\layout_fragment_sending.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_sending.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\navigation_main_graph.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\navigation\\main_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\layout_item_club.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\item_club.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\layout_fragment_receiving.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_receiving.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.ranis.homeworknumbertwo.app-debug-48:/layout_fragment_information.xml.flat",
+        "source": "com.ranis.homeworknumbertwo.app-main-50:/layout/fragment_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\drawable_ic_sending.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\drawable\\ic_sending.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\layout_item_book.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\item_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\drawable_ic_real_madrid.png.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\drawable\\ic_real_madrid.png"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\drawable_the_little_prince.webp.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\drawable\\the_little_prince.webp"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\layout_fragment_contacts.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\layout_fragment_information.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\drawable_ic_main.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\drawable\\ic_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\drawable_ic_contacts.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\drawable\\ic_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-debug-48:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\diana\\.gradle\\daemon\\8.7\\com.ranis.homeworknumbertwo.app-main-50:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]
