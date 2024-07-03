@@ -66,9 +66,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fb923c0-c712-4ec6-b1a8-bd5bda3dad4d" name="Changes" comment="homework2 is done">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/itis/homeworknumbertwo/ContactsFragment.kt" afterDir="false" />
-    </list>
+    <list default="true" id="4fb923c0-c712-4ec6-b1a8-bd5bda3dad4d" name="Changes" comment="homework3 is done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +80,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -128,8 +138,10 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/diana/MalikovaDiana-SummerPractice/homeworkNumberTwo",
+    "last_opened_file_path": "C:/Program Files (x30)/homeworkNumberTwo",
     "settings.editor.selected.configurable": "application.passwordSafe"
   },
   "keyToStringList": {
@@ -140,6 +152,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diana\MalikovaDiana-SummerPractice\homeworkNumberTwo\app" />
+      <recent name="C:\Users\diana\MalikovaDiana-SummerPractice\homeworkNumberTwo\app\src\main\java\com\itis" />
+      <recent name="C:\Users\diana\MalikovaDiana-SummerPractice\homeworkNumberTwo\app\src\main\java\com\itis\homeworknumbertwo" />
       <recent name="C:\Users\diana\MalikovaDiana-SummerPractice\homeworkNumberTwo\app\src\main\res\drawable" />
     </key>
   </component>
@@ -228,7 +243,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719965915648</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homework3 is done">
+      <option name="closed" value="true" />
+      <created>1720032732994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720032732994</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework3 is done">
+      <option name="closed" value="true" />
+      <created>1720032963548</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720032963549</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,7 +273,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="homework2" />
+                        <option value="homework3" />
                       </list>
                     </value>
                   </entry>
@@ -256,6 +287,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework2 is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework2 is done" />
+    <MESSAGE value="homework3 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework3 is done" />
   </component>
 </project>
